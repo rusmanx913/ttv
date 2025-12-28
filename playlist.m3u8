@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" group-title="Russia",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" group-title="Russia",Россия 1
+https://player.smotrim.ru/iframe/stream/live_id/2961
+
+#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Россия-24" group-title="Russia",Россия-24
+https://player.smotrim.ru/iframe/stream/live_id/21
+
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" group-title="Russia",НТВ
+http://ott-cdn.ucom.am/s17/index.m3u8
+
+#EXTINF:-1 tvg-id="sts.ru" tvg-name="СТС" group-title="Russia",СТС
+http://ott-cdn.ucom.am/s52/04.m3u8
+
+#EXTINF:-1 tvg-id="rentv.ru" tvg-name="Рен ТВ" group-title="Russia",Рен ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+
+#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Матч ТВ" group-title="Russia",Матч ТВ
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+
+#EXTINF:-1 tvg-id="muztv.ru" tvg-name="Муз-ТВ" group-title="Russia",Муз-ТВ
+https://streaming102.interskytech.com/live/618.m3u8
+
+#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" group-title="Russia",Спас
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
