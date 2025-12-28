@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" group-title="Russia",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" group-title="Russia",Россия 1
+https://direct-link-to-russia1.m3u8
+
+#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Россия-24" group-title="Russia",Россия-24
+https://direct-link-to-russia24.m3u8
+
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" group-title="Russia",НТВ
+https://direct-link-to-ntv.m3u8
+
+#EXTINF:-1 tvg-id="sts.ru" tvg-name="СТС" group-title="Russia",СТС
+https://direct-link-to-sts.m3u8
+
+#EXTINF:-1 tvg-id="rentv.ru" tvg-name="Рен ТВ" group-title="Russia",Рен ТВ
+https://direct-link-to-rentv.m3u8
+
+#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Матч ТВ" group-title="Russia",Матч ТВ
+https://direct-link-to-matchtv.m3u8
+
+#EXTINF:-1 tvg-id="muztv.ru" tvg-name="Муз-ТВ" group-title="Russia",Муз-ТВ
+https://direct-link-to-muztv.m3u8
+
+#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" group-title="Russia",Спас
+https://direct-link-to-spas.m3u8
